@@ -1,0 +1,15 @@
+{
+  "name": "Antreprenure",
+  "version": "0.1.0",
+  "description": "Theme for ghost",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-cssnano": "^2.0.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-sass": "^2.1.1"
+  },
+  "scripts": {
+    "init": "gulp"
+  }
+}
